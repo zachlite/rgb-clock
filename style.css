@@ -34,7 +34,7 @@ a:hover{color: #ccc;}
     
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 300px){
     #R,#G,#B{
     
         width: 100%;
