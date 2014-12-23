@@ -19,8 +19,7 @@ a:hover{color: #ccc;}
 #title{
  
     position: absolute;
-    bottom: 0px;
-    margin: 20px;
+    margin: 10px;
     color: #FFF;    
     font-size: 14px;
 }
@@ -34,7 +33,7 @@ a:hover{color: #ccc;}
     
 }
 
-@media screen and (max-width: 300px){
+@media screen and (max-width: 400px){
     #R,#G,#B{
     
         width: 100%;
